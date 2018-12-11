@@ -9,7 +9,6 @@ D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\G
 D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\GoogleAuthentication.csproj.CoreCompileInputs.cache
 D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\GoogleAuthentication.RazorAssemblyInfo.cache
 D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\GoogleAuthentication.RazorAssemblyInfo.cs
-D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\GoogleAuthentication.AssemblyInfoInputs.cache
 D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\GoogleAuthentication.AssemblyInfo.cs
 D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\GoogleAuthentication.TagHelpers.input.cache
@@ -33,3 +32,4 @@ D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\G
 D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\GoogleAuthentication.dll
 D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\GoogleAuthentication.pdb
 D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\GoogleAuthentication.csproj.CopyComplete
+D:\EDUCATION\GoogleAuthentication\GoogleAuthentication\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
